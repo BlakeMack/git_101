@@ -1,7 +1,8 @@
-body{
+body {
 	padding: 0px;
 	font-family: Helvetica;
 	font-weight: bolder;
+	background-color: #00BFA5;
 }
 
 .container{
