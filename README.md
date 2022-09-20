@@ -4,6 +4,9 @@ Navigating through the command line interface with git and implementing core git
 
 Git commands 
 
+
+
+
 Git add 
 - command used to add a file that is in the working directory to the staging area.
 git commit 
